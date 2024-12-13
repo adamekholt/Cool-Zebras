@@ -51,27 +51,27 @@ ChatGPT och Aizo kan vara bra på att lösa enklare kodproblem snabbt, som att g
 
 ## Fråga 5: 
 
-Språkmessig er det likedant, men Aizo svarer mer detaljert og opmuntrer til refleksjon rundt hva som skjer om man endrer verdiene. (OVERSETT)
+Språkmässigt är det samma sak, men Aizo svarar mer utförligt och uppmuntrar till reflektion över vad som händer om man ändrar värderingarna
 
 ## Fråga 6: 
 
-Vi fikk ikke opp Promise etter å ha gjentatt prossessen som anvist. Vi fikk til svar: Jag antog att du arbetar med en databas som kräver Promise-hantering, eftersom många moderna databaser och SDK:er använder Promise-baserad asynkronitet. (OVERSETT)
+Vi fick inte upp Promise efter att ha upprepat processen enligt anvisningarna. Vi fick svaret: Jag antog att du arbetar med en databas som kräver Promise-hantering, eftersom många moderna databaser och SDK:er använder Promise-baserad asynkroni.
 
 ## Fråga 7: 
 
-Det første svaret er enklere og mer rett frem, og gir en grunnleggende forståelse med enkle eksempler.
-Det andre svaret er mer detaljert og gir en mer teknisk, kognitiv og programmeringsorientert forklaring, med mer presise eksempler og større vekt på kompleksiteten i hvordan begrepene brukes.
+Det första svaret är enklare och mer rakt på sak, vilket ger en grundläggande förståelse med enkla exempel.
+Det andra svaret är mer detaljerat och ger en mer teknisk, kognitiv och programmeringsorienterad förklaring, med mer exakta exempel och större betoning på komplexiteten i hur termerna används.
 
 ## Fråga 8: 
 
-Det første svaret har mer tekst og er mer detaljert, det andre er mer kode og mindre forklarende. Ordene er mer lettforståelig i det første svaret. (OVERSETT)
+Det första svaret har mer text och är mer detaljerat, det andra är mer kod och mindre förklarande. Orden är lättare att förstå i det första svaret.
 
 ## Fråga 9: 
 
 okej att göra :
 Be AI förklara något svårt på ett enklare sätt och Få inspiration eller exempel för projekt. 
 hjälpa till med att skriva kodsnuttar, strukturera text eller ge formateringsförslag.
-Kan brukes til å feilsøke kode man allerede har skrevet. (OVERSETT)
+Kan användas för att felsöka kod som redan har skrivits.
 
 inte okej :
 Fuska och Låta AI göra hela uppgifter eller tentor åt dig.
@@ -81,13 +81,13 @@ Plagiat som att Kopiera AI-genererad text eller kod utan att anpassa eller förs
 
 1. Brist på förståelse, om man lita på AI för mycket utan för klara uppgiften åt sig och inte förstår något av själva uppgiften och svaret som AI utskriver.
 2. Förlorar förmågan att tänka kritiskt, vara kreativ och lösa problem på egen hand.
-3. Man risikerer feil svar.
+3.Du riskerar fel svar.
 
 ## Fråga 11: 
 
 Styrker: 
 Snabb kodgenerering. 
-Gir inspirasjon på kodløsningar som man kan lära seg av. 
+Ger inspiration till kodlösningar som du kan lära dig av. 
 
 Svakheter: 
 Om du bara accepterar AI:s förslag utan att förstå koden, kan du missa viktiga lärdomar. 
@@ -97,20 +97,20 @@ Brist på kontext.
 
 ## Fråga 12: 
 
-Man kan få inspirasjon gjennom å bruke Copilot. Man kan anvenda den til testing og felsøkning. 
+Du kan få inspiration genom att använda Copilot. Den kan användas för testning och felsökning.
 
 ## Fråga 13: 
 
-Det er effektivt ettersom det snabt genererer kod. Kan gi inspirasjon. 
+Det är effektivt eftersom det genererar kod snabbt. Kan ge inspiration.
 
 ## Fråga 14: 
 
-Vi tror AI kommer til å ta over grunnleggende oppgaver, men det vil ikke erstatte det kreative aspektet i å skape noe. Vilket ger utvecklare möjlighet att fokusera på kreativitet, strategi och problemlösning på andra komplexa projekt.
+Vi tror att AI kommer att ta över grundläggande uppgifter, men det kommer inte att ersätta den kreativa aspekten av att skapa något. Vilket ger utvecklare möjlighet att fokusera på kreativitet, strategi och problemlösning på andra komplexa projekt.
 
 ## Fråga 15: 
 
-Man kan risikere at det blir feil i koden, konsekvensene kan bli større i arbeidslivet. (OVERSETT)
-Juridiska problem, AI-genererad kod kan baseras på licensierat innehåll, vilket kan skapa upphovsrättsliga problem.
+Det finns en risk att det blir fel i koden, konsekvenserna kan bli större i arbetslivet.
+Juridiska frågor, AI-genererad kod kan baseras på licensierat innehåll, vilket kan skapa upphovsrättsproblem.
 
 ## Fråga 16: 
 
@@ -120,14 +120,14 @@ Gemini:
 3. Du kan ställa frågor relaterade till vad som finns på din skärm, som att sammanfatta en webbsida eller få mer information om något i en bild
 
 Claude: 
-1. Mer konsekvent og buggfri kod.
-2. Raderar historik etter 90 dagar.
-3. En mer mennesklig kod. 
+1. Mer konsekvent och buggfri kod.
+2. Raderar historik efter 90 dagar.
+3. En mer mänsklig kod.
  
 Deep code:
-1. For å hitta buggar. 
-2. Integrerer med github.
-3. Fungerer med mange språk. Eks. python og java.
+1. För att hitta buggar. 
+2. Integreras med github.
+3. Fungerar med många språk. Ex. python och java.
 
 ## Fråga 17: 
 
