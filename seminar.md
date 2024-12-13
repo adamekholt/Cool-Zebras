@@ -46,7 +46,7 @@ Det tog 8 kast att få hela stegen 1, 2, 3, 4, 5, 6.
 
 ## Fråga 4: 
 
-Vi tror at AI blir lat ved mer kompliserte problem, som gjør at svarene forenkles.(OVERSETT)
+Vi tror att AI blir lat vid mer komplicerade problem, vilket gör att svaren förenklas.
 ChatGPT och Aizo kan vara bra på att lösa enklare kodproblem snabbt, som att generera kodsnuttar, testa och felsöka. men när det gäller sötrre projekt som att designa avancerade system, så har ai svårt att matcha människor kreativitet och erfarenhet.
 
 ## Fråga 5: 
